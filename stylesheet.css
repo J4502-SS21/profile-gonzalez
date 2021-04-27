@@ -8,3 +8,51 @@ body {
   font-family: 'RocknRoll One', sans-serif;'
   font-weight: 400;
 }
+
+nav{
+  background:white;
+  color: inherit;
+  display: flex;
+  align-items: baseline;
+  flex-direction:row;
+  justify-content: space-evenly;
+  width:100%;
+  padding:inherit;
+  font-family: sans-serif;
+
+}
+
+h1{
+  font-size: 40px;
+}
+
+h2{
+  font-size:36px;
+}
+
+p{
+  font-size:24;
+}
+
+ul{
+  font-size:20px;
+}
+
+li{
+  width:40%;
+  float:right;
+}
+
+img{
+  border:0;
+  margin:35px;
+  width:50%;
+  min-width:200;
+  max-width:300;
+}
+
+section{
+  background:black;
+  color:white;
+  padding:30px;
+}
